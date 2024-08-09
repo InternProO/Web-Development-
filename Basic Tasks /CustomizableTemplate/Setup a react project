@@ -1,2 +1,7 @@
-npx create-react-app template-generator
-cd template-generator
+Run the following command in Git bash : 
+(npx create-react-app template-generator
+cd template-generator)
+
+Install all the Dependencies : 
+npm install axios react-router-dom
+
