@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.template-selector button {
+  margin: 5px;
+}
+
+.customization {
+  margin-top: 20px;
+}
+
+.preview {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+}
