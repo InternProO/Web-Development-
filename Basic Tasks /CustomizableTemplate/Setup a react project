@@ -12,3 +12,11 @@ npm init -y
 )
 install All Dependencies : 
 (npm install express mongoose cors)
+
+4.) MongoDB Setup
+Install MongoDB and start the MongoDB server.
+Create a database and collection for your templates.
+
+Start Backend Server : node server.js
+Start React frontend : npm start
+
