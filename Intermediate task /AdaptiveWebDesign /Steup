@@ -1,0 +1,9 @@
+1.) bash :
+    npx create-react-app responsive-ml-app
+cd responsive-ml-app
+npm install @tensorflow/tfjs
+npm install react-router-dom
+
+
+2.) At the end running the application with command : 
+npm start
