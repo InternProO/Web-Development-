@@ -5,4 +5,13 @@ Create a new React application using Create React App : npx create-react-app my-
 cd my-app
 npm install chart.js react-chartjs-2 axios
 
+Backend: Run the Node.js server.
+bash : node server.js
 
+
+Frontend: Start the React application. : npm start
+
+#Notes
+Replace 'your_weather_api_key' and 'your_crypto_api_key' with your actual API keys.
+Make sure the APIs you use are properly configured and you adhere to their rate limits and terms of service.
+Enhance error handling and UI/UX as needed for your production application.
