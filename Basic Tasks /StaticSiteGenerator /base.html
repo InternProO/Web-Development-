@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static Site Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Static Site Generator</h1>
+    <form action="/generate" method="post">
+        <textarea name="content" rows="10" cols="50" placeholder="Enter your content here..."></textarea>
+        <br>
+        <input type="submit" value="Generate Layout">
+    </form>
+</body>
+</html>
