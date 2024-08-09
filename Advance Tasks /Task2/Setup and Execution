@@ -1,0 +1,8 @@
+Install the required dependencies: npm install express axios cors
+
+Frontend (React)
+Create a new React application using Create React App : npx create-react-app my-app
+cd my-app
+npm install chart.js react-chartjs-2 axios
+
+
