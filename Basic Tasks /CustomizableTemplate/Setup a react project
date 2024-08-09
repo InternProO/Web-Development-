@@ -1,7 +1,14 @@
-Run the following command in Git bash : 
+1.) Run the following command in Git bash : 
 (npx create-react-app template-generator
 cd template-generator)
 
-Install all the Dependencies : 
+2.) Install all the Dependencies : 
 npm install axios react-router-dom
 
+3.)Backend: Node.js with Express 
+(mkdir backend
+cd backend
+npm init -y
+)
+install All Dependencies : 
+(npm install express mongoose cors)
