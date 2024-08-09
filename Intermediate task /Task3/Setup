@@ -1,0 +1,7 @@
+1. Set Up the Project
+Create a new directory for your project and set up the basic file structure:
+
+ar-web-framework/
+├── index.html
+├── styles.css
+└── script.js
