@@ -1,0 +1,7 @@
+1.) Install Required Packages :
+
+(pip install flask openai)
+
+2.) Run the Server : 
+
+(pyhton app.py)
